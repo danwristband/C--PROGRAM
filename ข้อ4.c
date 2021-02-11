@@ -25,7 +25,7 @@ int main()
     printf("3.%s %s\n",per3[0],per3[1]);
     
    
-    
+     
      
     return 0;
 }

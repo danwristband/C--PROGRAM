@@ -26,6 +26,6 @@ int main()
  
   printf("Determinant of  matrix is: %d", determinant);
     
-     
+      
     return 0;
 }

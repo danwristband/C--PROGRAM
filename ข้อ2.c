@@ -13,7 +13,7 @@ int main()
     scanf("%d", &num4);
      printf(" Please enter number 5: ");
     scanf("%d", &num5);
-     printf(" Please enter number 6: ");
+     printf(" Please enter number 6: "); 
     scanf("%d", &num6);
      printf(" Please enter number 7: ");
     scanf("%d", &num7);
